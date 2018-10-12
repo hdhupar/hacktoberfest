@@ -25,4 +25,4 @@ I'm a Full-stack Web Developer.
 
 
 
-[Check out my GitHub](https://github.com/bmatheus91 )
+[Check out my GitHub] (https://github.com/bmatheus91 )
